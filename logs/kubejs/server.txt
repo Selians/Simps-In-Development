@@ -1,0 +1,27 @@
+[21:02:29] [INFO ] Loaded script server_scripts:functions.js in 0.005 s
+[21:02:29] [INFO ] Loaded script server_scripts:config.js in 0.031 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.002 s
+[21:02:29] [INFO ] Loaded script server_scripts:tags/entity_type_tags.js in 0.001 s
+[21:02:29] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.002 s
+[21:02:29] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.001 s
+[21:02:29] [INFO ] Loaded script server_scripts:advancements/rewards.js in 0.006 s
+[21:02:29] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.0 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/create.js in 0.004 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.002 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.001 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.004 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.001 s
+[21:02:29] [INFO ] Loaded script server_scripts:recipes/techreborn.js in 0.001 s
+[21:02:29] [INFO ] Loaded script server_scripts:first_start.js in 0.001 s
+[21:02:29] [INFO ] Loaded 15/15 KubeJS server scripts in 0.072 s
+[21:02:29] [INFO ] Scripts loaded
+[21:02:29] [INFO ] Scanning recipes...
+[21:02:36] [INFO ] [items] Found 1924 tags, added 57 objects, removed 0 objects
+[21:02:36] [INFO ] [items] Found 1924 tags, added 57 objects, removed 0 objects
+[21:02:37] [INFO ] Found 13795 recipes and 0 failed recipes in 452.3 ms
+[21:02:38] [INFO ] Posted recipe events in 219.1 ms
+[21:02:38] [INFO ] Modified & removed recipes in 145.2 ms
+[21:02:38] [WARN ] Error creating recipe create:kjs_3lua6gv2nd9bzavpbql3qw1om[create:crushing]: {"processingTime":100,"type":"create:crushing","ingredients":[{"item":"minecraft:air"}],"results":[{"item":"techreborn:bauxite_dust","count":3},{"item":"techreborn:bauxite_dust","count":1,"chance":0.25}]}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[21:02:38] [WARN ] Error creating recipe farmersdelight:kjs_4r4qyrarpbc94zry8d2rd7fbj[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"tag":"minecraft:wool"}],"tool":{"tag":"farmersdelight:tools/knives"},"result":[{"item":"minecraft:string","count":2}]}: com.google.gson.JsonParseException: No ingredients for cooking recipe
+[21:02:38] [INFO ] Added recipes in 7.845 ms
+[21:02:38] [INFO ] Added 81 recipes, removed 540 recipes, modified 31 recipes, with 2 failed recipes and 0 fall-backed recipes

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/Marce/curseforge/minecraft/Instances/Valhelsia Simps Enhanced/saves/New World (7)
+}
+

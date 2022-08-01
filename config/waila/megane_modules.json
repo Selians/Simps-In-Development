@@ -1,0 +1,28 @@
+{
+  "modules": {
+    "megane-reborn-core": {
+      "lol.bai.megane.module.reborncore.MeganeRebornCore": true
+    },
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
+    },
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
+    "megane-tech-reborn": {
+      "lol.bai.megane.module.techreborn.MeganeTechReborn": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-wireless-networks": {
+      "lol.bai.megane.module.wirelessnetworks.MeganeWirelessNetworks": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

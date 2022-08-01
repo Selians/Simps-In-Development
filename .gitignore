@@ -6,6 +6,12 @@ bin-release/
 
 # Other files and folders
 .settings/
+saves/
+XaeroWaypoints/
+XaeroWorldMap/
+XaeroWaypoints_BACKUP032021/
+usercache.json
+backups/
 
 # Executables
 *.swf

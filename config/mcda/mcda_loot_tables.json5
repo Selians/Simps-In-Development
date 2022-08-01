@@ -1,0 +1,147 @@
+{
+	// Choose whether to use tiered loot system. Default = false
+	"enableTieredLootTables": {
+		"ENABLE_TIERED_LOOT_TABLES": false
+	},
+	// Default, non-tiered armour spawn rates.
+	"armorSpawnRates": {
+		"CAVE_CRAWLER": 0.0,
+		"DARK": 0.0,
+		"FOX": 0.0,
+		"FULL_METAL": 0.0,
+		"GHOSTLY": 0.0,
+		"GHOST_KINDLER": 0.0,
+		"GILDED": 0.0,
+		"GRIM": 0.0,
+		"HERO": 0.0,
+		"MERCENARY": 0.0,
+		"MYSTERY": 0.0,
+		"PLATE": 0.0,
+		"REINFORCED": 0.0,
+		"ROYAL": 0.0,
+		"SCALE": 0.0,
+		"SNOW": 0.0,
+		"SPELUNKER": 0.0,
+		"STALWART": 0.0,
+		"TELEPORTATION": 0.0,
+		"THIEF": 0.0,
+		"TITAN": 0.0,
+		"UNSTABLE": 0.0,
+		"VANGUARD": 0.0,
+		"WOLF": 0.0
+	},
+	// Chests for tiered spawning.
+	"commonLootTables": {
+		"COMMON_LOOT_TABLES": [
+			"minecraft:chests/abandoned_mineshaft",
+			"minecraft:chests/shipwreck_supply",
+			"minecraft:chests/shipwreck_treasure",
+			"minecraft:chests/desert_pyramid",
+			"minecraft:chests/village/village_weaponsmith"
+		]
+	},
+	"uncommonLootTables": {
+		"UNCOMMON_LOOT_TABLES": [
+			"minecraft:chests/jungle_temple",
+			"minecraft:chests/nether_bridge",
+			"minecraft:chests/bastion_bridge",
+			"minecraft:chests/bastion_other",
+			"minecraft:chests/bastion_treasure",
+			"minecraft:chests/ruined_portal"
+		]
+	},
+	"rareLootTables": {
+		"RARE_LOOT_TABLES": [
+			"minecraft:chests/underwater_ruin_small",
+			"minecraft:chests/underwater_ruin_big",
+			"minecraft:chests/simple_dungeon",
+			"minecraft:chests/igloo_chest",
+			"minecraft:chests/pillager_outpost"
+		]
+	},
+	"epicLootTables": {
+		"EPIC_LOOT_TABLES": [
+			"minecraft:chests/stronghold_corridor",
+			"minecraft:chests/stronghold_crossing",
+			"minecraft:chests/stronghold_library",
+			"minecraft:chests/end_city_treasure"
+		]
+	},
+	// Tiered armour spawn rates.
+	"armorLootTableSpawnRates": {
+		"ARCHER": 0.0,
+		"HUNTER": 0.0,
+		"OCELOT": 0.0,
+		"SHADOW_WALKER": 0.0,
+		"SPELUNKER": 0.0,
+		"CAVE_CRAWLER": 0.0,
+		"WOLF": 0.0,
+		"BLACK_WOLF": 0.0,
+		"FOX": 0.0,
+		"ARCTIC_FOX": 0.0,
+		"CLIMBING_GEAR": 0.0,
+		"RUGGED_CLIMBING_GEAR": 0.0,
+		"SQUID": 0.0,
+		"GLOW_SQUID": 0.0,
+		"GOAT": 0.0,
+		"BATTLE": 0.0,
+		"SPLENDID": 0.0,
+		"EVOCATION": 0.0,
+		"EMBER": 0.0,
+		"VERDANT": 0.0,
+		"THIEF": 0.0,
+		"SPIDER": 0.0,
+		"SOUL_ROBE": 0.0,
+		"SOULDANCER": 0.0,
+		"SPROUT": 0.0,
+		"LIVING_VINES": 0.0,
+		"PIGLIN": 0.0,
+		"ENTERTAINER": 0.0,
+		"TROUBADOUR": 0.0,
+		"TELEPORTATION": 0.0,
+		"UNSTABLE": 0.0,
+		"PHANTOM": 0.0,
+		"FROST_BITE": 0.0,
+		"GRIM": 0.0,
+		"WITHER": 0.0,
+		"TURTLE": 0.0,
+		"NIMBLE_TURTLE": 0.0,
+		"SCALE_MAIL": 0.0,
+		"HIGHLAND": 0.0,
+		"BEEHIVE": 0.0,
+		"BEENEST": 0.0,
+		"GHOSTLY": 0.0,
+		"GHOST_KINDLER": 0.0,
+		"GOLDEN_PIGLIN": 0.0,
+		"SWEET_TOOTH": 0.0,
+		"VANGUARD": 0.0,
+		"REINFORCED_MAIL": 0.0,
+		"STALWART_MAIL": 0.0,
+		"GUARDS": 0.0,
+		"CURIOUS": 0.0,
+		"SNOW": 0.0,
+		"FROST": 0.0,
+		"MERCENARY": 0.0,
+		"RENEGADE": 0.0,
+		"HUNGRY_HORROR": 0.0,
+		"EMERALD": 0.0,
+		"OPULENT": 0.0,
+		"DARK": 0.0,
+		"TITAN": 0.0,
+		"ROYAL": 0.0,
+		"PLATE": 0.0,
+		"FULL_METAL": 0.0,
+		"MYSTERY": 0.0,
+		"BLUE_MYSTERY": 0.0,
+		"GREEN_MYSTERY": 0.0,
+		"PURPLE_MYSTERY": 0.0,
+		"RED_MYSTERY": 0.0,
+		"CHAMPION": 0.0,
+		"HERO": 0.0,
+		"GILDED": 0.0,
+		"SHULKER": 0.0,
+		"STURDY_SHULKER": 0.0,
+		"CAULDRON": 0.0,
+		"GOURDIAN": 0.0
+	}
+}
