@@ -1,10 +1,16 @@
 // priority: 0
 
-console.info('Marcel > Kris')
+console.info('Simps cant read')
 
 onEvent('item.registry', event => {
 	// Register new items here
-	//event.create('void_pearl').maxStackSize(16).rarity('Legendary')
+	event.create('shifting_artifact').displayName('Shifting artifact');
+	event.create('shifting_arms').displayName('Shifting arms');
+	event.create('shifting_cloak').displayName('Shifting cloak');
+	event.create('shifting_goo').displayName('Shifting goo');
+	event.create('shifting_mail').displayName('Shifting mail');
+	event.create('unfinished_wayfinder').displayName('Unfinished Wayfinder');
+	event.create('wayfinder').displayName('Wayfinder');
 })
 
 onEvent('block.registry', event => {

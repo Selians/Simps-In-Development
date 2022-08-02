@@ -19,6 +19,7 @@ onEvent('recipes', (event) => {
   // Remove recipes by recipe ID.
 
   [
+    
     // Architect's Palette
     'architects_palette:ender_pearl_block',
 
@@ -145,6 +146,32 @@ onEvent('recipes', (event) => {
     'twigs:mossy_brick_slab',
 
     'twigs:mossy_brick_wall',
+
+    // Beyond Earth
+    'beyond_earth:nasa_workbench',
+    'beyond_earth:oxygen_tank',
+    'beyond_earth:rocket_nose_cone',
+    'beyond_earth:steel_tank',
+    'beyond_earth:desh_tank',
+    'beyond_earth:ostrum_tank',
+    'beyond_earth:calorite_tank',
+    'beyond_earth:steel_engine',
+    'beyond_earth:desh_engine',
+    'beyond_earth:ostrum_engine',
+    'beyond_earth:calorite_engine',
+
+    // Computercraft
+    'computercraft:wireless_modem_advanced',
+    'computercraft:turtle_advanced',
+    'computercraft:monitor_advanced',
+    'computercraft:pocket_computer_advanced',
+    'computercraft:computer_advanced',
+    'computercraft:wireless_modem_normal',
+    'computercraft:turtle_normal',
+    'computercraft:monitor_normal',
+    'computercraft:disk_drive',
+    'computercraft:pocket_computer_normal',
+    'computercraft:computer_normal',
 
   ].forEach((itemID) => event.remove({output: itemID}));
 

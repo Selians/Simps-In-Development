@@ -12,6 +12,8 @@ XaeroWorldMap/
 XaeroWaypoints_BACKUP032021/
 usercache.json
 backups/
+logs/
+
 
 # Executables
 *.swf
