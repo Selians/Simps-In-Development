@@ -1,29 +1,29 @@
-[23:59:04] [INFO ] Loaded script server_scripts:functions.js in 0.001 s
-[23:59:04] [INFO ] Loaded script server_scripts:config.js in 0.005 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:tags/entity_type_tags.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.003 s
-[23:59:04] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.001 s
-[23:59:04] [INFO ] Loaded script server_scripts:advancements/rewards.js in 0.003 s
-[23:59:04] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.0 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/beyondearth.js in 0.001 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/computercraft.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/create.js in 0.003 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.002 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.001 s
-[23:59:04] [INFO ] Loaded script server_scripts:recipes/techreborn.js in 0.001 s
-[23:59:04] [INFO ] Loaded script server_scripts:first_start.js in 0.001 s
-[23:59:04] [INFO ] Loaded 17/17 KubeJS server scripts in 0.044 s
-[23:59:04] [INFO ] Scripts loaded
-[23:59:04] [INFO ] Scanning recipes...
-[23:59:05] [INFO ] [items] Found 1926 tags, added 57 objects, removed 0 objects
-[23:59:05] [INFO ] [items] Found 1926 tags, added 57 objects, removed 0 objects
-[23:59:07] [INFO ] Found 13842 recipes and 0 failed recipes in 254.2 ms
-[23:59:07] [INFO ] Posted recipe events in 261.9 ms
-[23:59:07] [INFO ] Modified & removed recipes in 110.0 ms
-[23:59:07] [WARN ] Error creating recipe kubejs:kjs_7gwe2sw2o6begsuueuetnqtvu[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"computercraft:wireless_modem_advanced","count":1},"pattern":["AAA","ABA","AAA"],"key":{"A":{"tag":"c:plates/gold"},"B":{"item":"minecraft:air"}}}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-[23:59:07] [WARN ] Error creating recipe create:kjs_3lua6gv2nd9bzavpbql3qw1om[create:crushing]: {"processingTime":100,"type":"create:crushing","ingredients":[{"item":"minecraft:air"}],"results":[{"item":"techreborn:bauxite_dust","count":3},{"item":"techreborn:bauxite_dust","count":1,"chance":0.25}]}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-[23:59:07] [INFO ] Added recipes in 6.333 ms
-[23:59:07] [INFO ] Added 103 recipes, removed 567 recipes, modified 31 recipes, with 2 failed recipes and 0 fall-backed recipes
+[00:14:15] [INFO ] Loaded script server_scripts:functions.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:config.js in 0.002 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:tags/entity_type_tags.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.0 s
+[00:14:15] [INFO ] Loaded script server_scripts:advancements/rewards.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.0 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/beyondearth.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/computercraft.js in 0.0 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/create.js in 0.0 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:recipes/techreborn.js in 0.001 s
+[00:14:15] [INFO ] Loaded script server_scripts:first_start.js in 0.0 s
+[00:14:15] [INFO ] Loaded 17/17 KubeJS server scripts in 0.022 s
+[00:14:15] [INFO ] Scripts loaded
+[00:14:15] [INFO ] Scanning recipes...
+[00:14:16] [INFO ] [items] Found 1926 tags, added 57 objects, removed 0 objects
+[00:14:16] [INFO ] [items] Found 1926 tags, added 57 objects, removed 0 objects
+[00:14:18] [INFO ] Found 13842 recipes and 0 failed recipes in 225.8 ms
+[00:14:18] [INFO ] Posted recipe events in 314.6 ms
+[00:14:18] [INFO ] Modified & removed recipes in 95.97 ms
+[00:14:18] [WARN ] Error creating recipe kubejs:kjs_7gwe2sw2o6begsuueuetnqtvu[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"computercraft:wireless_modem_advanced","count":1},"pattern":["AAA","ABA","AAA"],"key":{"A":{"tag":"c:plates/gold"},"B":{"item":"minecraft:air"}}}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[00:14:18] [WARN ] Error creating recipe create:kjs_3lua6gv2nd9bzavpbql3qw1om[create:crushing]: {"processingTime":100,"type":"create:crushing","ingredients":[{"item":"minecraft:air"}],"results":[{"item":"techreborn:bauxite_dust","count":3},{"item":"techreborn:bauxite_dust","count":1,"chance":0.25}]}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[00:14:18] [INFO ] Added recipes in 5.610 ms
+[00:14:18] [INFO ] Added 103 recipes, removed 575 recipes, modified 31 recipes, with 2 failed recipes and 0 fall-backed recipes

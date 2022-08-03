@@ -173,6 +173,16 @@ onEvent('recipes', (event) => {
     'computercraft:pocket_computer_normal',
     'computercraft:computer_normal',
 
+    // VIEZE ITEMS BAH
+    'soulsweapons:gatling_gun',
+    'waystones:warp_stone',
+    'waystones:waystone',
+    'waystones:sandy_waystone',
+    'waystones:sharestone',
+    'waystones:warp_plate',
+    'waystones:portstone',
+
+
   ].forEach((itemID) => event.remove({output: itemID}));
 
 

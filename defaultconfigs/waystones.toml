@@ -20,8 +20,8 @@ transportLeashed = true
 transportLeashedDimensional = true
 leashedDenyList = ["minecraft:wither"]
 dimensionalWarp = "ALLOW"
-dimensionalWarpAllowList = ["beyond_earth:earth_orbit", "beyond_earth:glacio", "beyond_earth:glacio_orbit", "beyond_earth:mars", "beyond_earth:mars_orbit", "beyond_earth:mercury", "beyond_earth:mercury_orbit", "beyond_earth:moon", "beyond_earth:moon_orbit", "beyond_earth:venus", "beyond_earth:venus_orbit"]
-dimensionalWarpDenyList = []
+dimensionalWarpAllowList = []
+dimensionalWarpDenyList = ["beyond_earth:earth_orbit", "beyond_earth:glacio", "beyond_earth:glacio_orbit", "beyond_earth:mars", "beyond_earth:mars_orbit", "beyond_earth:mercury", "beyond_earth:mercury_orbit", "beyond_earth:moon", "beyond_earth:moon_orbit", "beyond_earth:venus", "beyond_earth:venus_orbit"]
 allowWaystoneToWaystoneTeleport = true
 globalWaystoneSetupRequiresCreativeMode = true
 [cooldowns]
