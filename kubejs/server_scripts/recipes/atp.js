@@ -31,5 +31,9 @@ onEvent('recipes', (event) => {
     ])
     .transitionalItem('kubejs:unfinished_wayfinder')
     .loops(1);
+	
+// ------------------ Butterscotch -> Caramel ------------------ \\
+
+event.campfireCooking('croptopia:caramel', 'sprout:butterscotch').cookingTime(200);
 });
   
