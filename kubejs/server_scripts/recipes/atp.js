@@ -36,5 +36,14 @@ onEvent('recipes', (event) => {
 
 //event.campfireCooking('croptopia:caramel', 'sprout:butterscotch').cookingTime(200);
 	event.smoking('croptopia:caramel', 'sprout:butterscotch');
+
 });
-  
+
+
+onEvent('item.tags', event => {
+	// ------------------ Twilight Forest ------------------ \\
+
+	event.removeAll('twilightforest:portal/activator')
+	event.add('twilightforest:portal/activator', 'kubejs:shifting_artifact');
+	
+})
