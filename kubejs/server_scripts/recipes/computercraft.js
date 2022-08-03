@@ -2,7 +2,7 @@
 // ATP Friends: Minecraft Enhanced
 
 /**
- * @file Create recipe additions for ATP Friends: Minecraft Enhanced.
+ * @file Computer Craft recipe additions for ATP Friends: Minecraft Enhanced.
  * 
  * 
  * 

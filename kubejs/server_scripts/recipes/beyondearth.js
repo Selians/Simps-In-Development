@@ -2,7 +2,7 @@
 // ATP Friends: Minecraft Enhanced
 
 /**
- * @file Create recipe additions for ATP Friends: Minecraft Enhanced.
+ * @file Beyond Earth recipe additions for ATP Friends: Minecraft Enhanced.
  * 
  * 
  * 
