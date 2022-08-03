@@ -1,3 +1,6 @@
-[23:52:27] [INFO ] Simps cant read
-[23:52:28] [INFO ] Loaded script startup_scripts:script.js in 0.109 s
-[23:52:28] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.321 s
+[18:39:02] [INFO ] Simps cant read
+[18:39:02] [INFO ] But Simp did load all normal items
+[18:39:02] [INFO ] And the ones with a special type now too
+[18:39:02] [INFO ] Loaded script startup_scripts:script.js in 0.103 s
+[18:39:02] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.304 s
+[18:39:02] [ERR  ] Error occurred while handling event 'item.registry': Wrapped java.lang.RuntimeException: type(String type) is no longer supported! Use event.create(String id, String type) now! (startup_scripts:script.js#21)

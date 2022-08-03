@@ -107,6 +107,7 @@ onEvent('recipes', (event) => {
 
     'additionaladditions:fried_egg',
 
+    'techreborn:neutron_reflector',
 
 
     // Blockus

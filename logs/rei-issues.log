@@ -1,4 +1,4 @@
-[23:55:33] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
+[18:41:54] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
 java.lang.IllegalStateException: techreborn:recycler
 	at me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.endReload(DisplayRegistryImpl.java:271)
 	at me.shedaniel.rei.api.common.registry.Reloadable.endReload(Reloadable.java:47)
@@ -12,7 +12,7 @@ java.lang.IllegalStateException: techreborn:recycler
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-[23:59:24] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
+[19:17:21] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
 java.lang.IllegalStateException: techreborn:recycler
 	at me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.endReload(DisplayRegistryImpl.java:271)
 	at me.shedaniel.rei.api.common.registry.Reloadable.endReload(Reloadable.java:47)
@@ -26,35 +26,7 @@ java.lang.IllegalStateException: techreborn:recycler
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-[00:07:24] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
-java.lang.IllegalStateException: techreborn:recycler
-	at me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.endReload(DisplayRegistryImpl.java:271)
-	at me.shedaniel.rei.api.common.registry.Reloadable.endReload(Reloadable.java:47)
-	at me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.startReload(PluginManagerImpl.java:363)
-	at me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:123)
-	at me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$reloadPlugins$24(RoughlyEnoughItemsCoreClient.java:465)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[00:07:55] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
-java.lang.IllegalStateException: techreborn:recycler
-	at me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.endReload(DisplayRegistryImpl.java:271)
-	at me.shedaniel.rei.api.common.registry.Reloadable.endReload(Reloadable.java:47)
-	at me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.startReload(PluginManagerImpl.java:363)
-	at me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:123)
-	at me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$reloadPlugins$24(RoughlyEnoughItemsCoreClient.java:465)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[00:14:34] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
+[19:18:43] [REI-ReloadPlugins/ERROR] [REI] Found displays registered for unknown registry
 java.lang.IllegalStateException: techreborn:recycler
 	at me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.endReload(DisplayRegistryImpl.java:271)
 	at me.shedaniel.rei.api.common.registry.Reloadable.endReload(Reloadable.java:47)
