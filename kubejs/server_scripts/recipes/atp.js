@@ -34,6 +34,7 @@ onEvent('recipes', (event) => {
 	
 // ------------------ Butterscotch -> Caramel ------------------ \\
 
-event.campfireCooking('croptopia:caramel', 'sprout:butterscotch').cookingTime(200);
+//event.campfireCooking('croptopia:caramel', 'sprout:butterscotch').cookingTime(200);
+	event.smoking('croptopia:caramel', 'sprout:butterscotch');
 });
   
