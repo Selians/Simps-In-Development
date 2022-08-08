@@ -190,4 +190,13 @@ onEvent('recipes', (event) => {
 
   // Quartz Elevator
   wrapped('quartzelv:quartz_elevator', '#valhelsia:storage_blocks/ender', 'minecraft:quartz');
+  
+  event.shaped('techreborn:iron_furnace', [
+    ' A ',
+    'A A',
+    'ABA'
+  ], {
+    A: 'minecraft:iron_ingot',
+    B: 'minecraft:furnace'
+  });
 });

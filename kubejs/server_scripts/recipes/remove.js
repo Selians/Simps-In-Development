@@ -105,6 +105,8 @@ onEvent('recipes', (event) => {
 
     // Additional Additions
 
+    'bewitchment:juniper_broom',
+
     'additionaladditions:fried_egg',
 
     'techreborn:neutron_reflector',
@@ -182,6 +184,9 @@ onEvent('recipes', (event) => {
     'waystones:sharestone',
     'waystones:warp_plate',
     'waystones:portstone',
+	
+	// Tech Reborn
+	'techreborn:iron_furnace',
 
 
   ].forEach((itemID) => event.remove({output: itemID}));

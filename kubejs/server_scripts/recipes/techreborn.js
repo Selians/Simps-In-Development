@@ -42,5 +42,5 @@ onEvent('recipes', (event) => {
 
   // ----- Implosion Compressor Recipes -----
   implosion(['8x ae2:sky_stone_block', '16x techreborn:dark_ashes_dust'], ['8x minecraft:crying_obsidian', '16x minecraft:tnt'], 30, 2000);
-  implosion(['8x ae2:sky_stone_block', '4x techreborn:ender_eye_small_dust'], ['8x minecraft:crying_obsidian', '4x minecraft:end_crystal'], 30, 2000);
+  implosion(['8x ae2:sky_stone_block', '4x techreborn:ender_eye_small_dust'], ['8x minecraft:crying_obsidian', '4x minecraft:end_crystal'], 30, 2000);    event.recipes.createPressing('techreborn:refined_iron_plate', 'techreborn:refined_iron_ingot')
 });
