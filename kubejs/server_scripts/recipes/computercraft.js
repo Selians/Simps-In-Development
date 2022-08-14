@@ -113,7 +113,7 @@ onEvent('recipes', (event) => {
         'AAA'
       ], {
         A: '#c:plates/gold',
-        B: 'computercraft:wireless_modem'
+        B: 'computercraft:wireless_modem_normal'
       });
   
   });

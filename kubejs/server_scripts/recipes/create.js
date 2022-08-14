@@ -140,7 +140,7 @@ onEvent('recipes', (event) => {
 		'3x techreborn:bauxite_dust',
 		Item.of('techreborn:bauxite_dust').withChance(0.25)
 	], 
-	'techreborn:deepslate_bauxite_dust');
+	'techreborn:deepslate_bauxite_ore');
 	
 	event.recipes.createCrushing([
 		'1x techreborn:platinum_dust',
